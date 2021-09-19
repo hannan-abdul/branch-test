@@ -1,7 +1,7 @@
 function friendName(name, name2) {
     // console.log('hello ' + name + name2)
 }
-friendName("karim", "rahim")
+friendName("karim", "rahim")jhjhjhjhjh
 
 const numbers = [2, 3, 5, 5, 6, 8, 10, 4];
 
